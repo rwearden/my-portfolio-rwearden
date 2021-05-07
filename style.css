@@ -1,0 +1,26 @@
+@font-face {
+  font-family: PressStart2P;
+  src: url('./fonts/PressStart2P.ttf');
+}
+
+.title {
+  font-size: 100;
+  color: hsla(244, 71%, 40%, 0.8);
+  font-family: PressStart2P;
+  text-align: center;
+}
+
+.navbar {
+  text-align: center;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: hsla(203, 59%, 92%, 0.8);
+}
+
+.snuffles {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
